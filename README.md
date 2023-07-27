@@ -26,6 +26,7 @@ Si buscas un colaborador entusiasta, creativo y comprometido, no busques mÃ¡s. Â
 
 </br>
 
+![Open VSX Downloads](https://img.shields.io/open-vsx/dt/Javascript/1010?style=flat-square&logo=appveyor&logoColor=green)
 
 
 
