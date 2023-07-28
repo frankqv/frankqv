@@ -8,63 +8,21 @@ Si buscas un colaborador entusiasta, creativo y comprometido, no busques más. �
                                     
                                     
                                     
-           █████████████            
-        ███████████████████         
-      ██████   ████████   ████       
-     █████                  █████      
+           ███████████████            
+        █████████████████████        
+      ██████   ████████   ██████      
+     █████                  █████     
     █████                    █████     
     █████                    █████     
     █████                   █████     
      ██████               ██████      
       ██   ████       █████████       
         ██             ██████         
-          █████        ███            
+          █████        ████            
 
 
-
-## Tecnologías:
-
-</br>
-
-![Open VSX Downloads](https://img.shields.io/open-vsx/dt/Javascript/1010?style=flat-square&logo=appveyor&logoColor=green)
-
-
-
-</br>
-
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-</br>
-Y alguna más...
-
-<!-- 
-
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-
-
-
- -->
-
-          
-      - 💬 Ask me about ...
-      - 📫 How to reach me: ...
-      - 😄 Pronouns: ...
-      - ⚡ Fun fact: ...                       
-                                    
-                                    
-                                    
-                                    
-
-
-
-
-
-<!--
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]() -->
-
-<!--
+                           
+   <!--
 **FranciscoQV117/FranciscoQv117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -79,31 +37,40 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Tecnologías:
-[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
-[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
-</br>
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-</br>
 
+
+
+
+## Tecnologías:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 </br>
-<div> <img alt="php" src="https://img.shields.io/badge/PHP-484C89?style=for-the-badge&logo=php&logoColor=white&labelColor=101010"> 
-        <img alt="php" src="https://img.shields.io/badge/PHP-484C89?style=for-the-badge&logo=php&logoColor=white&labelColor=101010">
+<div> 
+      <img alt="php" src="https://img.shields.io/badge/PHP-484C89?style=for-the-badge&logo=php&logoColor=white&labelColor=101010">
+      <img alt="php" src="https://img.shields.io/badge/PHP-484C89?style=for-the-badge&logo=php&logoColor=white&labelColor=101010">
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010">
- </div>
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-</br>
+  https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css&logoColor=white&labelColor=101010
+ </br>
+      <img alt="Html" src="https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html&logoColor=white&labelColor=101010">
+      <img alt="Css" src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css&logoColor=white&labelColor=101010">
+      <img alt="MySQL" src="AAA">
+</div>
 Y alguna más...
 
+</br>
 
 
+<!--
+    <img alt="MySQL" src="AAA">
+    <img alt="TeAMO  ♡ ♥ ♡ ♥ ♡ ♥ ♡ ♥ ♡ ♥ ♡ ♥ " src="AAA">
+    [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+    [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+    [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+    [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+    </br>
+-->
 
-https://img.shields.io/badge/PHP-484C89?style=for-the-badge&logo=php&logoColor=white&labelColor=101010
+
 
