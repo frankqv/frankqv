@@ -1,6 +1,6 @@
 ### ¡Hola! Soy Francisco Quinnonez  👋,
 
-Un joven con una pasión ardiente por la programación y el desarrollo de software. Mi conocimiento en Scrum, junto con mis habilidades en compuertas lógicas, me han permitido adquirir una base sólida en tecnología.
+Un joven apacionado por la programación y el desarrollo de software. Mi conocimiento en Scrum, junto con mis habilidades en compuertas lógicas, me han permitido adquirir una base sólida en tecnología.
 
 En mi perfil de GitHub, encontrarás proyectos innovadores que demuestran mi destreza y dedicación. La puntualidad y honestidad son valores fundamentales en mi trabajo, lo que garantiza resultados excepcionales en todo lo que hago.
 
