@@ -1,7 +1,7 @@
         |\__/,|   (`\
       _./o o  /_   ) )
 ------(((---(((-------------------------
-### ¡Bienvenido al repo FrankQnnz  👋,
+### ¡Bienvenido al perfil FrankQnnz  👋,
 
 
 Un joven apacionado por la programación y el desarrollo de software. Mi conocimiento en Scrum, junto con mis habilidades en compuertas lógicas, me han permitido adquirir una base sólida en tecnología.
