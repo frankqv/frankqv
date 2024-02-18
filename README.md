@@ -1,18 +1,12 @@
+### ¡Bienvenido al perfil FrankQnnz  👋,
+<pre>
         |\__/,|   (`\
       _./o o  /_   ) )
 ------(((---(((-------------------------
-### ¡Bienvenido al perfil FrankQnnz  👋,
+</pre>
 
-
-Un joven apacionado por la programación y el desarrollo de software. Mi conocimiento en Scrum, junto con mis habilidades en compuertas lógicas, me han permitido adquirir una base sólida en tecnología.
-En mi perfil de GitHub, encontrarás proyectos innovadores que demuestran mi destreza y dedicación. La puntualidad y honestidad son valores fundamentales en mi trabajo, lo que garantiza resultados excepcionales en todo lo que hago.
-
-Juntos podemos llevar la tecnología a nuevas alturas! 😊🚀
-
-                          
-                                    
-                                    
-           ███████████████            
+                                            
+           ███████████████           
         █████████████████████        
       ██████   ████████   ██████      
      █████                  █████     
@@ -22,43 +16,59 @@ Juntos podemos llevar la tecnología a nuevas alturas! 😊🚀
      ██████               ██████      
       ██   ████       █████████       
         ██             ██████         
-          █████        ████            
+          █████        ████        
 
+
+
+ Un joven apacionado por la programación y el desarrollo de software. 
+ Conocimiento en Scrum, junto con mis habilidades en compuertas lógicas, 
+me han permitido adquirir una base sólida en tecnología.
+
+En mi perfil de GitHub, encontrarás proyectos innovadores que demuestran mi destreza y dedicación.
+
+
+La puntualidad y honestidad son valores fundamentales en mi trabajo, 
+lo que garantiza resultados excepcionales en todo lo que hago.
               
-###            ,''',
-###          .' ., .',                                  ../'''',
-###         .'. %%, %.',                            .,/' .,%   :
-###        .'.% %%%,`%%%'.    .....,,,,,,.....   .,%%% .,%%'. .'
-###        : %%% %%%%%%',:%%>>%>' .,>>%>>%>%>>%%>,.   `%%%',% :
-###        : %%%%%%%'.,>>>%'   .,%>%>%'.,>%>%' . `%>>>,. `%%%:'
-###        ` %%%%'.,>>%'  .,%>>%>%' .,%>%>%' .>>%,. `%%>>,. `%
-###         `%'.,>>>%'.,%%%%%%%' .,%%>%%>%' >>%%>%>>%.`%% %% `,
-###         ,`%% %%>>>%%%>>%%>%%>>%>>%>%%%  %%>%%>%%>>%>%%%' % %,
-###       ,%>%'.>>%>%'%>>%%>%%%%>%'                 `%>%>>%%.`%>>%.
-###     ,%%>' .>%>%'.%>%>>%%%>>%' ,%%>>%%>%>>%>>%>%%,.`%%%>%%. `%>%.
-###    ` ,%' .>%%%'.%>%>>%' .,%%%%%%%%'          `%%%%%%.`%%>%% .%%>
-###    .%>% .%%>' :%>>%%'.,%%%%%%%%%'.%%%%%' `%%%%.`%%%%%.%%%%> %%>%.
-###   ,%>%' >>%%  >%' `%%%%'     `%%%%%%%'.,>,. `%%%%'     `%%%>>%%>%
-### .%%>%' .%%>'  %>>%, %% oO ~ Oo %%%>>'.>>>>>>. `% oO ~ Oo'.%%%'%>%,
-### %>'%> .%>%>%  %%>%%%'  `OoooO'.%%>>'.>>>%>>%>>.`%`OoooO'.%%>% '%>%
-### %',%' %>%>%'  %>%>%>% .%,>,>,   `>'.>>%>%%>>>%>.`%,>,>' %%%%> .>%>,
-### ` %>% `%>>%%. `%%% %' >%%%%%%>,  ' >>%>>%%%>%>>> >>%%' ,%%>%'.%%>>%.
-###  .%%'  %%%%>%.   `>%%. %>%%>>>%.>> >>>%>%%%%>%>>.>>>'.>%>%>' %>>%>%%
-###  `.%%  `%>>%%>    %%>%  %>>>%%%>>'.>%>>>>%%%>>%>>.>',%>>%'  ,>%'>% '
-###   %>'  %%%%%%'    `%%'  %%%%%> >' >>>>%>>%%>>%>>%> %%>%>' .%>%% .%%
-###  %>%>, %>%%>>%%,  %>%>% `%%  %>>  >>>%>>>%%>>>>%>>  %%>>,%>%%'.%>%,
-### %>%>%%, `%>%%>%>%, %>%%> ,%>%>>>.>>`.,.  `"   ..'>.%. % %>%>%'.%>%%;
-### %'`%%>%  %%>%%  %>% %'.>%>>%>%%>>%::.  `,   /' ,%>>>%>. >%>%'.%>%'%'
-### ` .%>%'  >%%% %>%%'.>%>%;''.,>>%%>%%::.  ..'.,%>>%>%>,`%  %'.>%%' '
-###   %>%>%% `%>  >%%'.%%>%>>%>%>%>>>%>%>>%,,::,%>>%%>%>>%>%% `>>%>'
-###   %'`%%>%>>%  %>'.%>>%>%>>;'' ..,,%>%>%%/::%>%%>>%%,,.``% .%>%%
-###   `    `%>%>>%%' %>%%>>%>>%>%>%>%%>%/'       `%>%%>%>>%%% ' .%'
-###         %'  `%>% `%>%%;'' .,>>%>%/',;;;;;,;;;;,`%>%>%,`%'   '
-###         `    `  ` `%>%%%>%%>%%;/ @a;;;;;;;;;;;a@  >%>%%'
-###                    `/////////';, `@a@@a@@a@@aa@',;`//'
-###                       `//////.;;,,............,,;;//'
-###                           `////;;;;;;;;;;;;;;;;;/'
-###                              `/////////////////'
+<pre>
+            ,''',
+          .' ., .',                                  ../'''',
+         .'. %%, %.',                            .,/' .,%   :
+        .'.% %%%,`%%%'.    .....,,,,,,.....   .,%%% .,%%'. .'
+        : %%% %%%%%%',:%%>>%>' .,>>%>>%>%>>%%>,.   `%%%',% :
+        : %%%%%%%'.,>>>%'   .,%>%>%'.,>%>%' . `%>>>,. `%%%:'
+        ` %%%%'.,>>%'  .,%>>%>%' .,%>%>%' .>>%,. `%%>>,. `%
+         `%'.,>>>%'.,%%%%%%%' .,%%>%%>%' >>%%>%>>%.`%% %% `,
+         ,`%% %%>>>%%%>>%%>%%>>%>>%>%%%  %%>%%>%%>>%>%%%' % %,
+       ,%>%'.>>%>%'%>>%%>%%%%>%'                 `%>%>>%%.`%>>%.
+     ,%%>' .>%>%'.%>%>>%%%>>%' ,%%>>%%>%>>%>>%>%%,.`%%%>%%. `%>%.
+    ` ,%' .>%%%'.%>%>>%' .,%%%%%%%%'          `%%%%%%.`%%>%% .%%>                 _./o o  /_   ) )
+    .%>% .%%>' :%>>%%'.,%%%%%%%%%'.%%%%%' `%%%%.`%%%%%.%%%%> %%>%.         ------(((---(((-------------------------
+   ,%>%' >>%%  >%' `%%%%'     `%%%%%%%'.,>,. `%%%%'     `%%%>>%%>%         Desarrollador de software con scrum certifcado
+ .%%>%' .%%>'  %>>%, %% oO ~ Oo %%%>>'.>>>>>>. `% oO ~ Oo'.%%%'%>%, 
+ %>'%> .%>%>%  %%>%%%'  `OoooO'.%%>>'.>>>%>>%>>.`%`OoooO'.%%>% '%>%
+ %',%' %>%>%'  %>%>%>% .%,>,>,   `>'.>>%>%%>>>%>.`%,>,>' %%%%> .>%>,
+ ` %>% `%>>%%. `%%% %' >%%%%%%>,  ' >>%>>%%%>%>>> >>%%' ,%%>%'.%%>>%.
+  .%%'  %%%%>%.   `>%%. %>%%>>>%.>> >>>%>%%%%>%>>.>>>'.>%>%>' %>>%>%%
+  `.%%  `%>>%%>    %%>%  %>>>%%%>>'.>%>>>>%%%>>%>>.>',%>>%'  ,>%'>% '
+   %>'  %%%%%%'    `%%'  %%%%%> >' >>>>%>>%%>>%>>%> %%>%>' .%>%% .%%
+  %>%>, %>%%>>%%,  %>%>% `%%  %>>  >>>%>>>%%>>>>%>>  %%>>,%>%%'.%>%,
+ %>%>%%, `%>%%>%>%, %>%%> ,%>%>>>.>>`.,.  `"   ..'>.%. % %>%>%'.%>%%;
+ %'`%%>%  %%>%%  %>% %'.>%>>%>%%>>%::.  `,   /' ,%>>>%>. >%>%'.%>%'%'
+ ` .%>%'  >%%% %>%%'.>%>%;''.,>>%%>%%::.  ..'.,%>>%>%>,`%  %'.>%%' '
+   %>%>%% `%>  >%%'.%%>%>>%>%>%>>>%>%>>%,,::,%>>%%>%>>%>%% `>>%>'
+   %'`%%>%>>%  %>'.%>>%>%>>;'' ..,,%>%>%%/::%>%%>>%%,,.``% .%>%%
+   `    `%>%>>%%' %>%%>>%>>%>%>%>%%>%/'       `%>%%>%>>%%% ' .%'
+         %'  `%>% `%>%%;'' .,>>%>%/',;;;;;,;;;;,`%>%>%,`%'   '
+         `    `  ` `%>%%%>%%>%%;/ @a;;;;;;;;;;;a@  >%>%%'
+                    `/////////';, `@a@@a@@a@@aa@',;`//'
+                       `//////.;;,,............,,;;//'
+                           `////;;;;;;;;;;;;;;;;;/'
+                              `/////////////////'
+
+        
+        En mi perfil de GitHub, encontrarás proyectos innovadores que demuestran mi destreza y dedicación.
+<pre>
 
 
 
@@ -66,22 +76,6 @@ Juntos podemos llevar la tecnología a nuevas alturas! 😊🚀
 
 
 
-
-
-   <!--
-**FranciscoQV117/FranciscoQv117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
@@ -115,7 +109,21 @@ Here are some ideas to get you started:
 [![Email](https://img.shields.io/badge/francisco.quionez0@soy.sena.edu.co-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:francisco.quionez0@soy.sena.edu.co)
 
 
+        
 <!--
+**FranciscoQV117/FranciscoQv117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
     <img alt="MySQL" src="AAA">
     <img alt="TeAMO  ♡ ♥ ♡ ♥ ♡ ♥ ♡ ♥ ♡ ♥ ♡ ♥ " src="AAA">
     [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
