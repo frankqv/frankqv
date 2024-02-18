@@ -1,9 +1,136 @@
-### ¡Bienvenido al perfil FrankQnnz  👋,
+### ¡Bienvenido al perfil FrankQnnz  👋,           
+<pre>
+            ,''',
+          .' ., .',                                  ../'''',
+         .'. %%, %.',                            .,/' .,%   :
+        .'.% %%%,`%%%'.    .....,,,,,,.....   .,%%% .,%%'. .'
+        : %%% %%%%%%',:%%>>%>' .,>>%>>%>%>>%%>,.   `%%%',% :
+        : %%%%%%%'.,>>>%'   .,%>%>%'.,>%>%' . `%>>>,. `%%%:'
+        ` %%%%'.,>>%'  .,%>>%>%' .,%>%>%' .>>%,. `%%>>,. `%
+         `%'.,>>>%'.,%%%%%%%' .,%%>%%>%' >>%%>%>>%.`%% %% `,
+         ,`%% %%>>>%%%>>%%>%%>>%>>%>%%%  %%>%%>%%>>%>%%%' % %,
+       ,%>%'.>>%>%'%>>%%>%%%%>%'                 `%>%>>%%.`%>>%.
+     ,%%>' .>%>%'.%>%>>%%%>>%' ,%%>>%%>%>>%>>%>%%,.`%%%>%%. `%>%.                   |\__/,|   (`\
+    ` ,%' .>%%%'.%>%>>%' .,%%%%%%%%'          `%%%%%%.`%%>%% .%%>                 _./o o  /_   ) )
+    .%>% .%%>' :%>>%%'.,%%%%%%%%%'.%%%%%' `%%%%.`%%%%%.%%%%> %%>%.         ------(((---(((-------------------------
+   ,%>%' >>%%  >%' `%%%%'     `%%%%%%%'.,>,. `%%%%'     `%%%>>%%>%         Desarrollador de software con scrum certifcado
+ .%%>%' .%%>'  %>>%, %% oO ~ Oo %%%>>'.>>>>>>. `% oO ~ Oo'.%%%'%>%, 
+ %>'%> .%>%>%  %%>%%%'  `OoooO'.%%>>'.>>>%>>%>>.`%`OoooO'.%%>% '%>%       <img alt="Android" src="https://img.shields.io/badge/python-blue?style=flat-square](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&labelColor=FFFF00&color=000000">
+ %',%' %>%>%'  %>%>%>% .%,>,>,   `>'.>>%>%%>>>%>.`%,>,>' %%%%> .>%>,
+ ` %>% `%>>%%. `%%% %' >%%%%%%>,  ' >>%>>%%%>%>>> >>%%' ,%%>%'.%%>>%.     <table class="default">
+  .%%'  %%%%>%.   `>%%. %>%%>>>%.>> >>>%>%%%%>%>>.>>>'.>%>%>' %>>%>%%     <tr><td><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010"></td><td>Celda 2</td><td>Celda 3</td></tr>
+  `.%%  `%>>%%>    %%>%  %>>>%%%>>'.>%>>>>%%%>>%>>.>',%>>%'  ,>%'>% '     </table>
+   %>'  %%%%%%'    `%%'  %%%%%> >' >>>>%>>%%>>%>>%> %%>%>' .%>%% .%%
+  %>%>, %>%%>>%%,  %>%>% `%%  %>>  >>>%>>>%%>>>>%>>  %%>>,%>%%'.%>%,
+ %>%>%%, `%>%%>%>%, %>%%> ,%>%>>>.>>`.,.  `"   ..'>.%. % %>%>%'.%>%%;
+ %'`%%>%  %%>%%  %>% %'.>%>>%>%%>>%::.  `,   /' ,%>>>%>. >%>%'.%>%'%'
+ ` .%>%'  >%%% %>%%'.>%>%;''.,>>%%>%%::.  ..'.,%>>%>%>,`%  %'.>%%' '
+   %>%>%% `%>  >%%'.%%>%>>%>%>%>>>%>%>>%,,::,%>>%%>%>>%>%% `>>%>'
+   %'`%%>%>>%  %>'.%>>%>%>>;'' ..,,%>%>%%/::%>%%>>%%,,.``% .%>%%
+   `    `%>%>>%%' %>%%>>%>>%>%>%>%%>%/'       `%>%%>%>>%%% ' .%'
+         %'  `%>% `%>%%;'' .,>>%>%/',;;;;;,;;;;,`%>%>%,`%'   '
+         `    `  ` `%>%%%>%%>%%;/ @a;;;;;;;;;;;a@  >%>%%'
+                    `/////////';, `@a@@a@@a@@aa@',;`//'
+                       `//////.;;,,............,,;;//'
+                           `////;;;;;;;;;;;;;;;;;/'
+                              `/////////////////'
+<table class="default">
+  <tr><td><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010"></td><td>Celda 2</td><td>Celda 3</td></tr>
+  <tr><td>Celda 4</td><td>Celda 5</td><td>Celda 6</td></tr>
+</table>
+
+
+
+
+
+
+        
+<dir>
+<table class="default1">
+
+  <tr>
+
+    <td>Celda 1</td>
+
+    <td>Celda 2</td>
+
+    <td>Celda 3</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Celda 4</td>
+
+    <td>Celda 5</td>
+
+    <td>Celda 6</td>
+
+  </tr>
+
+</table>
+
+</dir>
+
+
+
+
+
 <pre>
         |\__/,|   (`\
       _./o o  /_   ) )
 ------(((---(((-------------------------
-</pre>
+</pre> 
+
+
+
+## Tecnologías:
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+<div>
+    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010">
+    <img alt="php" src="https://img.shields.io/badge/PHP-484C89?style=for-the-badge&logo=php&logoColor=white&labelColor=101010">
+    <img alt="SQLyog" src="https://img.shields.io/badge/SQLyog-808080?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010">
+  </br> </br>
+    <img alt="Html" src="https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html&logoColor=white&labelColor=101010">
+    <img alt="Css" src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css&logoColor=white&labelColor=101010">
+  </br>
+   <p>Y alguna más...</p> 
+  </br>
+</div>
+
+
+
+
+
+
+<table class="default">
+
+  <tr>
+
+    <td>Celda 1</td>
+
+    <td>Celda 2</td>
+
+    <td>Celda 3</td>
+
+  </tr>
+
+  <tr>
+
+    <td>Celda 4</td>
+
+    <td>Celda 5</td>
+
+    <td>Celda 6</td>
+
+  </tr>
+
+</table>
+
+
+
 
                                             
            ███████████████           
@@ -29,75 +156,11 @@ En mi perfil de GitHub, encontrarás proyectos innovadores que demuestran mi des
 
 La puntualidad y honestidad son valores fundamentales en mi trabajo, 
 lo que garantiza resultados excepcionales en todo lo que hago.
-              
-<pre>
-            ,''',
-          .' ., .',                                  ../'''',
-         .'. %%, %.',                            .,/' .,%   :
-        .'.% %%%,`%%%'.    .....,,,,,,.....   .,%%% .,%%'. .'
-        : %%% %%%%%%',:%%>>%>' .,>>%>>%>%>>%%>,.   `%%%',% :
-        : %%%%%%%'.,>>>%'   .,%>%>%'.,>%>%' . `%>>>,. `%%%:'
-        ` %%%%'.,>>%'  .,%>>%>%' .,%>%>%' .>>%,. `%%>>,. `%
-         `%'.,>>>%'.,%%%%%%%' .,%%>%%>%' >>%%>%>>%.`%% %% `,
-         ,`%% %%>>>%%%>>%%>%%>>%>>%>%%%  %%>%%>%%>>%>%%%' % %,
-       ,%>%'.>>%>%'%>>%%>%%%%>%'                 `%>%>>%%.`%>>%.
-     ,%%>' .>%>%'.%>%>>%%%>>%' ,%%>>%%>%>>%>>%>%%,.`%%%>%%. `%>%.
-    ` ,%' .>%%%'.%>%>>%' .,%%%%%%%%'          `%%%%%%.`%%>%% .%%>                 _./o o  /_   ) )
-    .%>% .%%>' :%>>%%'.,%%%%%%%%%'.%%%%%' `%%%%.`%%%%%.%%%%> %%>%.         ------(((---(((-------------------------
-   ,%>%' >>%%  >%' `%%%%'     `%%%%%%%'.,>,. `%%%%'     `%%%>>%%>%         Desarrollador de software con scrum certifcado
- .%%>%' .%%>'  %>>%, %% oO ~ Oo %%%>>'.>>>>>>. `% oO ~ Oo'.%%%'%>%, 
- %>'%> .%>%>%  %%>%%%'  `OoooO'.%%>>'.>>>%>>%>>.`%`OoooO'.%%>% '%>%
- %',%' %>%>%'  %>%>%>% .%,>,>,   `>'.>>%>%%>>>%>.`%,>,>' %%%%> .>%>,
- ` %>% `%>>%%. `%%% %' >%%%%%%>,  ' >>%>>%%%>%>>> >>%%' ,%%>%'.%%>>%.
-  .%%'  %%%%>%.   `>%%. %>%%>>>%.>> >>>%>%%%%>%>>.>>>'.>%>%>' %>>%>%%
-  `.%%  `%>>%%>    %%>%  %>>>%%%>>'.>%>>>>%%%>>%>>.>',%>>%'  ,>%'>% '
-   %>'  %%%%%%'    `%%'  %%%%%> >' >>>>%>>%%>>%>>%> %%>%>' .%>%% .%%
-  %>%>, %>%%>>%%,  %>%>% `%%  %>>  >>>%>>>%%>>>>%>>  %%>>,%>%%'.%>%,
- %>%>%%, `%>%%>%>%, %>%%> ,%>%>>>.>>`.,.  `"   ..'>.%. % %>%>%'.%>%%;
- %'`%%>%  %%>%%  %>% %'.>%>>%>%%>>%::.  `,   /' ,%>>>%>. >%>%'.%>%'%'
- ` .%>%'  >%%% %>%%'.>%>%;''.,>>%%>%%::.  ..'.,%>>%>%>,`%  %'.>%%' '
-   %>%>%% `%>  >%%'.%%>%>>%>%>%>>>%>%>>%,,::,%>>%%>%>>%>%% `>>%>'
-   %'`%%>%>>%  %>'.%>>%>%>>;'' ..,,%>%>%%/::%>%%>>%%,,.``% .%>%%
-   `    `%>%>>%%' %>%%>>%>>%>%>%>%%>%/'       `%>%%>%>>%%% ' .%'
-         %'  `%>% `%>%%;'' .,>>%>%/',;;;;;,;;;;,`%>%>%,`%'   '
-         `    `  ` `%>%%%>%%>%%;/ @a;;;;;;;;;;;a@  >%>%%'
-                    `/////////';, `@a@@a@@a@@aa@',;`//'
-                       `//////.;;,,............,,;;//'
-                           `////;;;;;;;;;;;;;;;;;/'
-                              `/////////////////'
+
+
+
 
         
-        En mi perfil de GitHub, encontrarás proyectos innovadores que demuestran mi destreza y dedicación.
-<pre>
-
-
-
-
-
-
-
-
-
-
-
-
-## Tecnologías:
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-<div>
-    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010">
-    <img alt="php" src="https://img.shields.io/badge/PHP-484C89?style=for-the-badge&logo=php&logoColor=white&labelColor=101010">
-    <img alt="SQLyog" src="https://img.shields.io/badge/SQLyog-808080?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010">
-  </br> </br>
-    <img alt="Html" src="https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html&logoColor=white&labelColor=101010">
-    <img alt="Css" src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css&logoColor=white&labelColor=101010">
-  </br>
-   <p>Y alguna más...</p> 
-  </br>
-</div>
-
-
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
@@ -108,6 +171,14 @@ lo que garantiza resultados excepcionales en todo lo que hago.
 
 [![Email](https://img.shields.io/badge/francisco.quionez0@soy.sena.edu.co-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:francisco.quionez0@soy.sena.edu.co)
 
+
+|   1	|   	|   3123	|   	|   	|
+|--:	|---	|---	|---	|---	|
+|   23	|   	|   	|   	|   	|
+|   213	|   	|   	123|   	|   	|
+|   	|   	|   	|   	|   	|
+
+        
 
         
 <!--
