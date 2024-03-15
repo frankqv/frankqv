@@ -77,6 +77,14 @@
    </tr>
 </table>
 
+<h2>Webs</h2>
+</tr>
+     <td>
+          <button><a href="https://frankqv.github.io/par_impar_decimal">par_impar_decimal</a></button>
+     </td>
+</tr>
+
+
 
 
 
