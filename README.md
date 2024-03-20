@@ -72,19 +72,19 @@
         <p>java</p>
    </td>
    <td>
-        <p>IDE androind</p>     <!-- <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010">  -->
+        <p>IDE androind</p>     <!-- <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010">    𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 𝕝𝕠𝕒𝕕𝕚𝕟𝕘... ■■■■■■■■■□ 97%-->
    </td>
    </tr>
+   
 </table>
-
+𝕝𝕠𝕒𝕕𝕚𝕟𝕘... ■■■■■■■■■□ 99.7%
 <h2>Webs</h2>
 </tr>
      <td>
           <button><a href="https://frankqv.github.io/par_impar_decimal">par_impar_decimal</a></button>
      </td>
+     <span style="display: inline-block; font-size: 24px; color: #7bff24; background: #000000; border-radius: 6px; padding: 10px 20px;"></span>
 </tr>
-
-
 
 
 
