@@ -37,7 +37,7 @@
    </td>
    
    <td>
-     <img alt="Larevel" src="https://img.shields.io/badge/Laravel-FF0000?style=flat-square](style=flat-square&logo=php&labelColor=FFFFFF&color=FF0000"> 
+     <img alt="Larevel" src="https://img.shields.io/badge/Codeigniter4-FF0000?style=flat-square](style=flat-square&logo=php&labelColor=FFFFFF&color=FF0000"> 
    </td>  
 </tr>
 
