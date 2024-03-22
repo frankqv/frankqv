@@ -42,9 +42,11 @@
 </tr>
 
 
+
+
+
+
 </table>
-
-
 <table class="default">
   <tr>
     <h2>TECNOLOGIAS</h2>
@@ -58,10 +60,10 @@
    </td>
             
    <td>
-     <img alt="php" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white&labelColor=572364">
-     <br>
+     <p>IDE androind</p> 
      <!-- <img alt="php" src="https://img.shields.io/badge/php-black?style=flat-square](style=flat-square&logo=php&labelColor=ffffff&color=000000"> -->
    </td> 
+
    <td>
         <p>javascript</p>
    </td>  
@@ -71,12 +73,26 @@
    <td>
         <p>java</p>
    </td>
+      <td>
+        <p>n⬢de.js </p>
+   </td>
+   
    <td>
-        <p>IDE androind</p>     <!-- <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010">    𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 𝕝𝕠𝕒𝕕𝕚𝕟𝕘... ■■■■■■■■■□ 97%-->
+        <p>❖ Jira </p>     <!-- ⬢ ⬡ ⬡  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010">    𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 𝕝𝕠𝕒𝕕𝕚𝕟𝕘... ■■■■■■■■■□ 97%-->
    </td>
    </tr>
-   
+<td>
+      <p><img alt="php" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white&labelColor=572364"> Bootstrap 5</p>
+   </td>
 </table>
+
+
+
+
+
+
+
+
 𝕝𝕠𝕒𝕕𝕚𝕟𝕘... ■■■■■■■■■□ 99.7%
 <h2>Webs</h2>
 </tr>
