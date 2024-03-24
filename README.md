@@ -65,7 +65,9 @@
    </td> 
 
    <td>
-        <p>javascript</p>
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-white?logo=JavaScript&logoColor=white&labelColor=ffeb1d&color=000000">
+
+        
    </td>  
       <td>
         <p>.net C#</p>
@@ -75,7 +77,8 @@
    </td>
    
    <td>
-        <p>❖ Jira </p>     <!-- ⬢ ⬡ ⬡  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010">    𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 𝕝𝕠𝕒𝕕𝕚𝕟𝕘... ■■■■■■■■■□ 97%-->
+        <img alt="Jira" src="https://img.shields.io/badge/❖%20Jira-blue?logo=Jira&labelColor=blue&color=000000">  
+        <!-- ⬢ ⬡ ⬡  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010">    𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 𝕝𝕠𝕒𝕕𝕚𝕟𝕘... ■■■■■■■■■□ 97%-->
    </td>
       <td> 
          <img alt="node" src="https://img.shields.io/badge/n⬢de.js-blue?style=flat-square](https://img.shields.io/badge/style=flat-square&logo=node.js&labelColor=000000&color=008f39">  
@@ -87,13 +90,16 @@
 </table>
 
 
+<div>
+  𝕝𝕠𝕒𝕕𝕚𝕟𝕘... ■■■■■■■■■□ 99.7% <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+</div>
 
 
 
 
 
 
-𝕝𝕠𝕒𝕕𝕚𝕟𝕘... ■■■■■■■■■□ 99.7%
+
 <h2>Webs</h2>
 </tr>
      <td>
@@ -109,6 +115,15 @@
 
 <!--  <p><img alt="php" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white&labelColor=572364"> Bootstrap 5</p> 
 
+https://img.shields.io/badge/Jira-blue?logo=Jira&labelColor=blue&color=000000
+
+
+
+
+
+js
+https://img.shields.io/badge/JavaScript-white?logo=JavaScript&logoColor=white&labelColor=ffe900&color=000000
+
 
 https://img.shields.io/badge/n%E2%AC%A2de.js-blue?style=flat-square](https://img.shields.io/badge/Python-blue?style=flat-square&logo=node.js&labelColor=FFFFFF&color=008f39
 
@@ -118,6 +133,14 @@ https://img.shields.io/badge/n%E2%AC%A2de.js-blue?style=flat-square](https://img
    </td>
 
 ⬢
+
+
+
+<br>
+<br>
+𝕝𝕠𝕒𝕕𝕚𝕟𝕘... ■■■■■■■■■□ 99.7% <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+<br>
+
 
 
 
