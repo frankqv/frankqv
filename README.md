@@ -59,9 +59,9 @@
      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=Mysql&logoColor=white&labelColor=00aae4"> <img alt="Xampp" src="https://img.shields.io/badge/Xampp-black?style=flat-square&logo=Xampp&logoColor=white&labelColor=ffa800">
    </td>
             
-   <td>
+   <!--<td>
      <img alt="androind" src="https://img.shields.io/badge/IDE_AndroidStudio-path?style=flat-square&logo=android&labelColor=ffffff&color=000000">
-   </td> 
+   </td> -->
 
    <td>
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-white?logo=JavaScript&logoColor=white&labelColor=ffeb1d&color=000000">
