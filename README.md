@@ -60,8 +60,7 @@
    </td>
             
    <td>
-     <p>IDE androind</p> 
-     <!-- <img alt="php" src="https://img.shields.io/badge/php-black?style=flat-square](style=flat-square&logo=php&labelColor=ffffff&color=000000"> -->
+     <img alt="androind" src="https://img.shields.io/badge/IDE_AndroidStudio-path?style=flat-square&logo=android&labelColor=ffffff&color=000000">
    </td> 
 
    <td>
@@ -88,17 +87,20 @@
          <img alt="node" src="https://img.shields.io/badge/n⬢de.js-blue?style=flat-square](https://img.shields.io/badge/style=flat-square&logo=node.js&labelColor=000000&color=008f39">  
    </td>
 
-   <!--
+
    <td>
      <p><img alt="linux" src="https://img.shields.io/badge/Linux-white?logo=linux&logoColor=000000&labelColor=ffe900&color=000000"</p>
    </td>
    -->
    </td>  
       <td>
-        <p>.net C#</p>
+        <img alt="csharp" src="https://img.shields.io/badge/C%23_.NET-path?style=flat-square&logo=.net&labelColor=8A2BE2&color=000000">   
    </td>  
    <td>
         <p>java</p>
+   </td>
+   <td>
+        <img alt="linux" src="https://img.shields.io/badge/Boostrap-path?style=flat&logo=bootstrap&labelColor=ffffff&color=000000">
    </td>
  </tr>
 </table>
