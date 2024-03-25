@@ -93,9 +93,11 @@
    </td>
    -->
    </td>  
+   <!--
       <td>
         <img alt="csharp" src="https://img.shields.io/badge/C%23_.NET-path?style=flat-square&logo=.net&labelColor=8A2BE2&color=000000">   
-   </td>  
+   </td>
+   -->
    <td>
         <p>java</p>
    </td>
