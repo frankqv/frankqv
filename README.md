@@ -1,5 +1,10 @@
 ### ¡Bienvenido al perfil FrankQV  👋,      
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=frankqv&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="frankqv"> </p>
+
+
+
 <!--html-->
 <pre>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣄⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡖⣻⠉⢿⣿⠆⠈⠙⢶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -140,15 +145,19 @@
 
 linux
 https://img.shields.io/badge/Linux-white?logo=linux&logoColor=000000&labelColor=ffe900&color=000000
-
-
-
-
-
-
-
-
 -->
 
 
+
+
+
+###   🚀😎      
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=frankqv &amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="frankqv "> </p>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frankqv&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="frankqv">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=frankqv&amp;show_icons=true&amp;locale=en" alt="Frankqv">
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Frankqv&amp;" alt="Frankqv">
 
