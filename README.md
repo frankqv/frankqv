@@ -136,24 +136,14 @@
 </tr>
 
 
-
-
-
-
 <!-- 
-
-
 linux
 https://img.shields.io/badge/Linux-white?logo=linux&logoColor=000000&labelColor=ffe900&color=000000
 -->
 
-
-
-
-
-###   🚀😎      
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=frankqv &amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="frankqv "> </p>
+<br><br><br><br>
+<h2>  🚀😎      </h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=frankqv&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="frankqv "> </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frankqv&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="frankqv">
 
