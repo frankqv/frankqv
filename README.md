@@ -135,19 +135,10 @@
      <span style="display: inline-block; font-size: 24px; color: #7bff24; background: #000000; border-radius: 6px; padding: 10px 20px;"></span>
 </tr>
 
-
-<!-- 
-linux
-https://img.shields.io/badge/Linux-white?logo=linux&logoColor=000000&labelColor=ffe900&color=000000
--->
-
-<br><br><br><br>
+<br><br>
 <h2>  🚀😎      </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frankqv&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="frankqv "> </p>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frankqv&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="frankqv">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=frankqv&amp;show_icons=true&amp;locale=en" alt="Frankqv">
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Frankqv&amp;" alt="Frankqv">
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frankqv&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="frankqv"> </p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=frankqv&amp;show_icons=true&amp;locale=en" alt="Frankqv"> </p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Frankqv&amp;" alt="Frankqv"></p>
 
