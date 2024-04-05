@@ -1,7 +1,6 @@
-### ¡Bienvenido al perfil FrankQV  👋,      
-
-
+### ¡Bienvenido al perfil FrankQV  👋,     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frankqv&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="frankqv"> </p>
+
 
 
 
@@ -49,8 +48,6 @@
 
 
 
-
-
 </table>
 <table class="default">
   <tr>
@@ -63,44 +60,31 @@
    <td>
      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=Mysql&logoColor=white&labelColor=00aae4"> <img alt="Xampp" src="https://img.shields.io/badge/Xampp-black?style=flat-square&logo=Xampp&logoColor=white&labelColor=ffa800">
    </td>
-            
-   <!--<td>
+<!--<td>
      <img alt="androind" src="https://img.shields.io/badge/IDE_AndroidStudio-path?style=flat-square&logo=android&labelColor=ffffff&color=000000">
    </td> -->
-
    <td>
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-white?logo=JavaScript&logoColor=white&labelColor=ffeb1d&color=000000">
    <td>
         <img alt="Jira" src="https://img.shields.io/badge/❖%20Jira-blue?logo=Jira&labelColor=blue&color=000000">  
-        <!-- ⬢ ⬡ ⬡  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010">    𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 𝕝𝕠𝕒𝕕𝕚𝕟𝕘... ■■■■■■■■■□ 97%-->
    </td>
 </tr>
-
-
-
-
-
 
 
 <tr>
    <td>
       <p><img alt="php" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white&labelColor=572364"> Bootstrap 5</p>
    </td>
-
-   
    <td> 
          <img alt="node" src="https://img.shields.io/badge/n⬢de.js-blue?style=flat-square](https://img.shields.io/badge/style=flat-square&logo=node.js&labelColor=000000&color=008f39">  
    </td>
-
-
    <td>
      <p><img alt="linux" src="https://img.shields.io/badge/Linux-white?logo=linux&logoColor=000000&labelColor=ffe900&color=000000"</p>
    </td>
-   -->
    </td>  
    <!--
       <td>
-        <img alt="csharp" src="https://img.shields.io/badge/C%23_.NET-path?style=flat-square&logo=.net&labelColor=8A2BE2&color=000000">   
+        <img alt="csharp" src="https://img.shields.io/badge/C%23_.NET-path?style=flat-square&logo=.net&labelColor=8A2BE2&color=000000">  
    </td>
    -->
    <td>
@@ -113,19 +97,9 @@
 </table>
 
 
-
-
-
-
 <div>
   𝕝𝕠𝕒𝕕𝕚𝕟𝕘... ■■■■■■■■■□ 99.7% 
 </div>
-
-
-
-
-
-
 
 <h2>Webs</h2>
 </tr>
@@ -141,4 +115,3 @@
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frankqv&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="frankqv"> </p>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=frankqv&amp;show_icons=true&amp;locale=en" alt="Frankqv"> </p>
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Frankqv&amp;" alt="Frankqv"></p>
-
