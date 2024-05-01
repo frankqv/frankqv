@@ -15,26 +15,28 @@ Desarrollador de software con certifcado de scrum
 
 
 
-<table align="center" class="default">
-     <tr>
-       <h2 style="color: rgb(0, 89, 255)">TECNOLOGIAS</h2>
-   </tr>
-   <tr>
-      <td>
-          <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=flat-square](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&labelColor=FFFF00&color=000000"> <img alt="HTML_CSS" src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=internet&label=HTML&labelColor=orange">  
-      </td>
-      <td>
+<table>
+  <tr>
+    <h2 style="color: rgb(0, 89, 255)">TECNOLOGIAS</h2>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=flat-square](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&labelColor=FFFF00&color=000000"> <img alt="HTML_CSS" src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=internet&label=HTML&labelColor=orange">  
+    </td>
+    <td>
         <img alt="MySQL" src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=Mysql&logoColor=white&labelColor=00aae4"> <img alt="Xampp" src="https://img.shields.io/badge/Xampp-black?style=flat-square&logo=Xampp&logoColor=white&labelColor=ffa800">
-      </td>
+    </td>
    <!--<td>
         <img alt="androind" src="https://img.shields.io/badge/IDE_AndroidStudio-path?style=flat-square&logo=android&labelColor=ffffff&color=000000">
       </td> -->
-      <td>
-           <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-white?logo=JavaScript&logoColor=white&labelColor=ffeb1d&color=000000">
-      <td>
-           <img alt="Jira" src="https://img.shields.io/badge/❖%20Jira-blue?logo=Jira&labelColor=blue&color=000000">  
-      </td>
+    <td>
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-white?logo=JavaScript&logoColor=white&labelColor=ffeb1d&color=000000">
+    <td>
+      <img alt="Jira" src="https://img.shields.io/badge/❖%20Jira-blue?logo=Jira&labelColor=blue&color=000000">  
+    </td>
    </tr>
+
+  
    <tr>
       <td>
          <p><img alt="php" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white&labelColor=572364"> Bootstrap 5</p>
